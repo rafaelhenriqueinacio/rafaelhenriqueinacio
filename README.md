@@ -22,9 +22,6 @@
 </div>
 <hr>
 <br><br>
-<div>
-<a href="mailto:rafaelhenriqueinac@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank_"></a>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelhenriqueinacio/rafaelhenriqueinacio/output/github-contribution-grid-snake-dark.svg">
