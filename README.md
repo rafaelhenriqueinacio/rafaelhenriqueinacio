@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/rafaelhenriqueinacio">
-  <center><img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelhenriqueinacio&show_icons=true&theme=cobalt">
+  <center><img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelhenriqueinacio&show_icons=true&theme=cobalt&include_all_commits=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenriqueinacio&theme=cobalt"></center>
 </div>
 <hr>
