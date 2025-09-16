@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá! Sou o Rafael Inácio, Seja Bem-Vindo ao meu perfil!
 
-<!--
-**rafaelhenriqueinacio/rafaelhenriqueinacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/rafaelhenriqueinacio">
+  <center><img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelhenriqueinacio&show_icons=true&theme=cobalt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenriqueinacio&theme=cobalt"></center>
+</div>
+<hr>
+<br><br>
+<div>
+  <h2>Linguagens Conhecidas</h2>
+  <br>
+  <img align="center" src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,php,)](https://skillicons.dev">
+  <br><br><br>
+  <h2>WEB</h2>
+  <br>
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev">
+  <br><br><br>
+  <h2>Banco de Dados</h2>
+  <br>
+  <img align="center" src="https://skillicons.dev/icons?i=mysql,postgres,)](https://skillicons.dev">
+</div>
+<hr>
+<br><br>
+<div>
+<a href="mailto:rafaelhenriqueinac@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank_"></a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/rafaelhenriqueinac/rafaelhenriqueinac/blob/output/github-contribution-grid-snake.svg)
