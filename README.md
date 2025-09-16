@@ -6,8 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenriqueinacio&theme=cobalt"></center>
 </div>
 <hr>
-<br><br>
 <div>
+<br>
   <h2>Linguagens Conhecidas</h2>
   <br>
   <img align="center" src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,php,)](https://skillicons.dev">
